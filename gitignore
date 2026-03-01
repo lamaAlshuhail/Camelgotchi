@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.db
+*.cap
+*.csv
+captures/
+.DS_Store
+*.swp
+*.swo
