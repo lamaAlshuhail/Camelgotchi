@@ -62,3 +62,6 @@ Print settings: 0.20mm layer height, 15-20% infill, supports recommended.
 ## Disclaimer
 
 This tool is for authorized security testing only. Only use it on networks you own or have explicit permission to test. Unauthorized access to computer networks is illegal.
+
+## License
+MIT
