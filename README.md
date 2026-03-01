@@ -1,4 +1,5 @@
 # Camelgotchi
+![Camelgotchi](images/pic-v1.jpg)
 
 A portable WiFi security testing tool inspired by [Pwnagotchi](https://pwnagotchi.ai/), built for Raspberry Pi 4B. Unlike the original Pwnagotchi which only works on 2.4GHz, this supports both 2.4GHz and 5GHz networks using an external adapter.
 
